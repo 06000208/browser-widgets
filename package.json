@@ -29,7 +29,7 @@
     "codemirror": "^6.0.1",
     "ejs": "^3.1.9",
     "electron-squirrel-startup": "^1.0.0",
-    "electron-store": "^8.1.0",
+    "electron-store": "^9.0.0",
     "feather-icons": "^4.29.1",
     "focus-trap": "^7.5.2",
     "fs-extra": "^11.1.1"
@@ -42,7 +42,7 @@
     "@electron-forge/maker-zip": "^6.4.1",
     "@electron-forge/plugin-auto-unpack-natives": "^6.2.1",
     "@types/node": "^20.5.7",
-    "electron": "^26.1.0",
+    "electron": "^30.0.9",
     "esbuild": "^0.19.2",
     "filehound": "^1.17.6",
     "nodemon": "^3.0.1"
